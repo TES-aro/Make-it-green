@@ -7,5 +7,6 @@ crontab -l > mycron
 # this deletes previous cronobs that execute fluff-update.sh
 sed -i '/fluff-update.sh/d' mycron
 echo "$TIMER  cd $SCRIPT_DIR && ./fluff-update.sh" >> mycron
+echo "@reboot  cd $SCRIPT_DIR && ./fluff-update.sh" >> mycron
 crontab mycron
 rm mycron
