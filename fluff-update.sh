@@ -13,6 +13,6 @@ if [ $X == $Y ]; then
 	echo "" >> fluff.txt
 	# pushes the update
 	git add .
-	git commit -m "I like unicorns"
+	git commit -m "$message"
 	git push
 fi

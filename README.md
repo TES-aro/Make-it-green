@@ -17,4 +17,4 @@ git pull git@github.com:TES-aro/Make-it-green.git
 
 you can edit the cronjob either manually trough `crontab -e`
 or by editing the cronjob_update.sh file and running it again.
-the file does not remove the previous cronjob!
+the file removes all cronjobs that deal with `fluff-update.sh`
