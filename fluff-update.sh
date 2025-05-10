@@ -2,7 +2,7 @@
 # check if has updated today
 X="$(date +%e)"
 Y="$(date +%e -r fluff.txt)"
-if [ $X == $Y ]; then
+if [ $X != $Y ]; then
 
 	date=$(date +%d/%M/%y)
 	epoch_time=$(date +%s)
