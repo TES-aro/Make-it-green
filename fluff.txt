@@ -2,37 +2,12 @@ This is a bad joke I found amusing. will likely mess with cronjobs more to make
 em more random though use of snooze seems smarter for that.
 
 now let's see if these work!
-10/14/25 epoch: 1746875640
- ________________________________________ 
-/ All this wheeling and dealing around,  \
-| why, it isn't for money, it's for fun. |
-| Money's just the way we keep score.    |
-|                                        |
-\ -- Henry Tyroon                        /
- ---------------------------------------- 
-        \   ^__^
-         \  (oo)\_______
-            (__)\       )\/\
-                ||----w |
-                ||     ||
-
-10/18/25 epoch: 1746875880
- _______________________________________ 
-/ You can get *anywhere* in ten minutes \
-\ if you drive fast enough.             /
- --------------------------------------- 
-        \   ^__^
-         \  (oo)\_______
-            (__)\       )\/\
-                ||----w |
-                ||     ||
-
-10/20/25 epoch: 1746876000
- _________________________________________ 
-/ You will pay for your sins. If you have \
-| already paid, please disregard this     |
-\ message.                                /
- ----------------------------------------- 
+10/22/25 epoch: 1746876120
+ _____________________________________ 
+/ My CODE of ETHICS is vacationing at \
+| famed SCHROON LAKE in upstate New   |
+\ York!!                              /
+ ------------------------------------- 
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\

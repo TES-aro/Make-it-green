@@ -1,8 +1,0 @@
-#!/bin/bash
-dir=$(pwd)
-crontab -l > mycron
-#edit the "13 12 * * * for your prefered timing"
-crontab mycron
-rm mycron
-## config for your own git
-# it is likely best to do this manually so script deleted for now
