@@ -1,8 +1,4 @@
 #!/bin/bash
-eval "$(ssh-agent)"
-ssh-add $HOME/.ssh/uni_gitlab
-#SCRIPT_DIR=$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )
-#cd $SCRIPT_DIR
 date=$(date +%d/%M/%y)
 epoch_time=$(date +%s)
 message=$(date +%A)
