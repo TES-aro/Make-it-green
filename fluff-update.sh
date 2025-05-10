@@ -5,5 +5,6 @@ message=$(date +%A)
 echo "$date epoch: $epoch_time" >> fluff.txt
 fortune | cowsay >> fluff.txt
 echo "" >> fluff.txt
+git add .
 git commit -m "$message"
 git push
