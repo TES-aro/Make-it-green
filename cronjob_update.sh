@@ -1,7 +1,7 @@
 #!/bin/bash
 # edit this for the time when you wish to run the cronjob.
 # check man 5 crontab for specifics!
-TIMER="0-59/2 * * * *"
+TIMER="13 * * * *"
 SCRIPT_DIR=$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )
 crontab -l > mycron
 # this deletes previous cronobs that execute fluff-update.sh

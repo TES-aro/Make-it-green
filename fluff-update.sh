@@ -1,4 +1,5 @@
 #!/bin/bash
+# check if has updated today
 date=$(date +%d/%M/%y)
 epoch_time=$(date +%s)
 message=$(date +%A)
