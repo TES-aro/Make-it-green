@@ -8,5 +8,5 @@ fortune | cowsay >> fluff.txt
 echo "" >> fluff.txt
 # pushes the update
 git add .
-git commit -m "$epoch_time"
+git commit -m "I like unicorns"
 git push
