@@ -11,8 +11,10 @@ if [ $DATE != $FILE_DATE ]; then
 	echo "$MESSAGE_DATE epoch: $EPOCH_TIME" >> fluff.txt
 	fortune | cowsay >> fluff.txt
 	echo "" >> fluff.txt
+	git add .
+	sleep 1s
+	git commit -m "$MESSAGE"
 fi
 # pushes the update
-git add .
-git commit -m "$MESSAGE"
+sleep 1s
 git push
