@@ -407,3 +407,17 @@ Let's spam this for the lulz :3
                 ||----w |
                 ||     ||
 
+14/15/25 epoch: 1749867329
+ _______________________________________ 
+/ if (instr(buf,sys_errlist[errno])) /* \
+| you don't see this */                 |
+|                                       |
+| -- Larry Wall in eval.c from the perl |
+\ source code                           /
+ --------------------------------------- 
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+
