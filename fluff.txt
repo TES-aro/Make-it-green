@@ -829,3 +829,20 @@ Let's spam this for the lulz :3
                 ||----w |
                 ||     ||
 
+26/27/25 epoch: 1753496853
+ _______________________________________ 
+/ <Deek> nopcode: No, it isn't. Win32   \
+| lacks the equivalent of fork().       |
+| <Knghtbrd> Deek: windoze is not meant |
+| for people who should have access to  |
+|                                       |
+| sharp objects, hence no fork()        |
+| <Knghtbrd> instead, you must rely on  |
+\ spoon()                               /
+ --------------------------------------- 
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+
