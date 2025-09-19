@@ -1599,3 +1599,18 @@ Let's spam this for the lulz :3
                 ||----w |
                 ||     ||
 
+19/25/25 epoch: 1758270358
+ _________________________________________ 
+/ "Note that if I can get you to \"su and \
+| say\" something just by asking, you     |
+| have a very serious security problem on |
+| your system and you should look into    |
+| it." (By Paul Vixie, vixie-cron 3.0.1   |
+\ installation notes)                     /
+ ----------------------------------------- 
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+
