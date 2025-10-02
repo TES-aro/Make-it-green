@@ -1772,3 +1772,21 @@ Let's spam this for the lulz :3
                 ||----w |
                 ||     ||
 
+02/30/25 epoch: 1759368600
+ _______________________________________ 
+/ If you remove stricture from a large  \
+| Perl program currently, you're just   |
+| installing delayed bugs, whereas with |
+| this feature, you're installing an    |
+| instant bug that's easily fixed.      |
+| Whoopee.                              |
+|                                       |
+| -- Larry Wall in                      |
+\ <199710050130.SAA04762@wall.org>      /
+ --------------------------------------- 
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+
