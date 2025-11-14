@@ -2291,3 +2291,17 @@ Let's spam this for the lulz :3
                 ||----w |
                 ||     ||
 
+14/04/25 epoch: 1763085840
+ ________________________________________ 
+/ The use of anthropomorphic terminology \
+| when dealing with computing systems is |
+| a symptom of professional immaturity.  |
+|                                        |
+\ -- Edsger Dijkstra                     /
+ ---------------------------------------- 
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+
